@@ -55,14 +55,14 @@ class Main {
     }
 
     public static void main(String[] args) {
-        final long runs = 10000;
-        //final long runs = 1000000;
+
         int[] temp = {36,24,10,6,12};
         selectionSort(temp);
         //insertionSort(temp);
         for(int element : temp) System.out.println(element);
 //No reason to change anything below this line, but feel free to browse
-
+        final long runs = 100;
+        //final long runs = 1000000;
 
         System.out.format("Number of trials: %,d\n", runs);
         //unsorted array to search

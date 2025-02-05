@@ -1,5 +1,6 @@
 {
     "redhat.telemetry.enabled" : false,
+    "editor.bracketPairColorization.enabled": true, 
     "java.server.launchMode" : "Standard",
     "files.exclude": {
         ".*": true,
@@ -8,13 +9,29 @@
         "gradlew.bat": true,
         "settings.gradle.kts":true,
         ".vscode":true,
-		"build-SNAPSHOT.gradle":true,
-		"build.gradle":true,
-		"settings.gradle":true,
+	"build-SNAPSHOT.gradle":true,
+	"build.gradle":true,
+	"settings.gradle":true,
         "gradle":true
     },
     "cSpell.words": [
         "devcontainers",
-        "vscjava"
+        "vscjava",
+        "println",
+        "pikachu",
+        "pikachu's",
+        "raichu",
+        "raichu's",
+        "charizard",
+        "charmander",
+        "mewtwo",
+        "charmeleon",
+        "deadend",
+        "Catchrate",
+        "McKibben",
+        "diceware",
+        "Diceware",
+        "arraysize",
+        "autofetch"
     ]
 }

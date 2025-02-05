@@ -1,2 +1,2 @@
-rootProject.name = "SortingSolution"
+//rootProject.name = "SampleJava"
 
